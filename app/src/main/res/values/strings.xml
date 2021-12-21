@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Photo Search</string>
+    <string name="search_photo">Search Photo</string>
+    <string name="search">Search</string>
+    <string name="app_icon">App Icon</string>
+    <string name="photo">Photo</string>
+    <string name="loading">Loading</string>
+    <string name="recent_searches">Recent Searches</string>
+    <string name="search_caption">You have no recent searches. Enter a search term above.</string>
+    <string name="back_button">Back Button</string>
+    <string name="title_s">Title: %s</string>
+    <string name="author_s">Author: %s</string>
+    <string name="description_s">Description: %s</string>
+    <string name="dimensions_s_s">Dimensions: %s*%s</string>
+</resources>
